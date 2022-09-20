@@ -1,7 +1,6 @@
 package intro;
 
 public class EnBüyükSayı {
-
 	public static void main(String[] args) {
 		int sayi1=20,sayi2,sayi3;
 		sayi2=25;
