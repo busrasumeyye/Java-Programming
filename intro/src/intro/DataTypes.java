@@ -16,9 +16,7 @@ public class DataTypes {
 	    char karakter= 'A';//metinsel bir ifade arkaplanda karakter topluluğudur
 	    boolean yanit= true;//1bytelık yer tutar
 	    boolean dogruMu= false;
-	    if(dogruMu==true) {
-	    	
-	    }
+	    if(dogruMu==true);
 	    
 	    
 	    
