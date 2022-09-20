@@ -21,7 +21,5 @@ public class Lesson6 {
 	  System.out.println("Öğrenci sayısı: "+ogrenciSayisi);
 	  //+ sayesinde metinsel toplama yapılıyor
 	  
-	  
-	  
 }
 }
