@@ -20,5 +20,6 @@ public class IF {
 		/*if(sayi<15) {
 			System.out.println("Sayı 15ten küçüktür");
 		}*/
+		
 	}
 }
