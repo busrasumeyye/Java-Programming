@@ -1,5 +1,4 @@
 package intro;
-
 public class IF {
 	public static void main(String[] args) {
 		//IF blokları ile çalışma
@@ -12,6 +11,7 @@ public class IF {
 		}else {
 			System.out.println("Sayı 20den büyüktür");
 		}
+			
 			/*else {
 		}
 			System.out.println("Sayı 20den küçük değildir");
@@ -19,6 +19,7 @@ public class IF {
 		/*if(sayi<15) {
 			System.out.println("Sayı 15ten küçüktür");
 		}*/
+		
 		
 	}
 }
