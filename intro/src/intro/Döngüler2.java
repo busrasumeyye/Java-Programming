@@ -9,7 +9,13 @@ public class Döngüler2 {
 			i+=3;
 		}
 		System.out.println("While döngüsü bitti");
-
+        //do-while
+		int j=1;
+		do {
+			System.out.println(j);
+			j+=4;
+		}while(j<20); 
+		System.out.println("do-while döngüsü bitti");
 	}
 
 }
