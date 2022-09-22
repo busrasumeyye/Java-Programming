@@ -28,7 +28,6 @@ public class diziler {
 			//ogrenciler dizisindeki her bir elemanı gez
 			//ogrenci takma adıyla,kodun okunurluğu çok önemli
 			System.out.println(ogrenci);
-			
 		}
 
 	}
