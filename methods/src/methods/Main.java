@@ -16,7 +16,6 @@ public class Main {
 				varMi=true;
 				break;
 			}
-			
 		}
 		if(varMi) {
 			System.out.println("Sayı mevcuttur"+aranacak);
