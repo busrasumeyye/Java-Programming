@@ -1,7 +1,23 @@
 package classesWithAttributes;
 
 public class Product {
+
+	// parametresiz cons
+	/*
+	 * public Product(int id, String name,String description,double price,int
+	 * stockAmount,String renk) { System.out.println("Yapıcı blok çalıştı");
+	 * this.id=id;
+	 * this.renk=renk;
+	 * this.name=name;
+	 * this.description=description;
+	 * this.stockAmount=stockAmount;
+	 * }değerleri buraya yazabiliriz
+	 */
 	// attribute field ürün nesnesi özellik tutuyor
+
+	public Product() {
+	};
+
 	private int id;
 	private String name;
 	private String description;
@@ -59,9 +75,7 @@ public class Product {
 	}
 
 	public String getKod() {
-		return this.name.substring(0,1)+id;
+		return this.name.substring(0, 1) + id;
 	}
-
-	
 
 }
