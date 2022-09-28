@@ -18,12 +18,17 @@ public class Main {
 			}
 		}
 		if(varMi) {
-			System.out.println("Sayı mevcuttur"+aranacak);
+			mesajVer("Sayı mevcuttur: "+aranacak);
 			
 		}
 		else {
-			System.out.println("Sayi mevcut değildir"+aranacak);
+			mesajVer("Sayi mevcut değildir"+aranacak);
 		}
+	}
+	//camelCasing
+	public static void mesajVer(String mesaj) {
+		System.out.println(mesaj);
+		
 	}
 
 	}
