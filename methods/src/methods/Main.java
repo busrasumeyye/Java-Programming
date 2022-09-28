@@ -15,7 +15,6 @@ public class Main {
 			if(sayi==aranacak) {
 				varMi=true;
 				break;
-				
 			}
 			
 		}
