@@ -7,6 +7,7 @@ public class diziler {
 		String ogrenci2= "Derin";
 		String ogrenci3= "Salih";
 		String ogrenci4= "Ahmet";
+		String ogrenci5="Leyla";
 		
 		System.out.println(ogrenci1);
 		System.out.println(ogrenci2);
