@@ -27,7 +27,7 @@ public class diziler {
 		System.out.println("---------------------------");
 		for(String ogrenci:ogrenciler) {
 			//ogrenciler dizisindeki her bir elemanı gez
-			//ogrenci takma adıyla,kodun okunurluğu çok önemli
+			//ogrenci takma adıyla,kodun okunurluğu çok önemli//
 			System.out.println(ogrenci);
 		}
 
