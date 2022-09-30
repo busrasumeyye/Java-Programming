@@ -8,5 +8,8 @@ public class PersonManager {
 	public void Ekle() {
 		System.out.println("Eklendi");
 	}
+	public void Update() {
+		System.out.println("Güncellendi");
+	}
 
 }
