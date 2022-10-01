@@ -5,7 +5,7 @@ public class Main {
 		
 		int number = 25;
 		int count = 0;
-		for(int i=1 ; i<25;i++) {
+		for(int i=1 ; i<number;i++) {
 			if(number%i==0)
 			{
 				count++;
