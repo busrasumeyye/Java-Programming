@@ -11,7 +11,11 @@ public class Main {
 				count++;
 			}
 		}
-		if(count != 0) {
+		
+		if(number<1) {
+			System.out.println("Geçersiz Sayı");
+		}
+		if(count != 0 || number==1) {
 			System.out.println("Sayı asal değildir");
 		}
 		else {
