@@ -10,6 +10,7 @@ public class KrediUI {
 
 	//referans tip olduğu için öğretmen ya da tarım gönderilebilir ve referans olarak tutulabilir
      
+	
 
 
 
